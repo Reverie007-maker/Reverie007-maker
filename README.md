@@ -16,7 +16,7 @@ Hi, I'm [Syah](https://www.linkedin.com/syahirsaadon) - an aspiring **Data Analy
 | **Analytics** 📊 | SQL, Python, Power BI |
 | **Governance** 🔐 | a. Data Maturity Models, Data Governance Framework | 
 | | b. AI Ethics |
-| | c. Regulatory Compliance (ie. Mysia PDPA 2024, AIGE) |
+| | c. Regulatory Compliance (ie. Mysia PDPA, AIGE) |
 | **Consulting** 💡 | Stakeholder Communication, Business Value Mapping, RFP Content Generation |
 
 ---
