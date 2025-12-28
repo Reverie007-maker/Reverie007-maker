@@ -1,7 +1,8 @@
 # Ciaossu, Hello ! 👋
 
 ## 🚀 About Me
-Hi, I'm [Syah](https://www.linkedin.com/syahirsaadon) - an aspiring **Data Analyst & Consultant** with a niche in **Data & AI Governance**. I bridge the gap between technical complexity and business value by acting as both:
+Hi, I'm [Syah](https://www.linkedin.com/syahirsaadon) - an aspiring **Data Analyst & Consultant** with a niche in **Data & AI Governance**. 
+I bridge the gap between technical complexity and business value by acting as both:
 * **The Architect 🏗️**: Designing frameworks for data integrity.
 * **The Translator 🗣️**: Turning complex data into ethical, strategic insights.
 
